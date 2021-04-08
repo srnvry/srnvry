@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Opensource Project**
 
-- 😄 Pronouns: [Work Smarter Not Harder](Work Smarter Not Harder)
+- 😄 Pronouns: **Work Smarter Not Harder**
 
 - 💬 Ask me about my domain I'm Happy to help you **In my domain I'm Happy to help you**
 
