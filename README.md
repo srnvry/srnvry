@@ -11,7 +11,7 @@
 
 - 😄 Pronouns: [Work Smarter Not Harder](Work Smarter Not Harder)
 
-- 💬 Ask me about my domain I'm Happy to help you **my domain I'm Happy to help you**
+- 💬 Ask me about my domain I'm Happy to help you **In my domain I'm Happy to help you**
 
 - 📫 How to reach me **srnvry@gmail.com**
 
