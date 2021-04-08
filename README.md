@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Opensource Project**
 
-- 😄 Pronouns: **Work Smarter Not Harder**
-
 - 💬 Ask me about my domain I'm Happy to help you **In my domain I'm Happy to help you**
 
 - 📫 How to reach me **srnvry@gmail.com**
+
+- 😄 Pronouns: **Work Smarter Not Harder**
 
 - ⚡ Fun fact **Enjoy Every Moments**
 
