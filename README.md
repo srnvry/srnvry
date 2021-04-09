@@ -34,6 +34,6 @@
 <h4 align="left">Cloud:</h4>
 <p align="left"><a href="https://www.openstack.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" alt="" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="" width="40" height="40"/> </a> </p>
 <h4 align="left">Automation:</h4>
-<p align="left"><a href="https://www.ansible.com/" target="_blank"> <img src="" alt="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/> </a> </p>
+<p align="left"><a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srnvry&" alt="srnvry" /></p>
