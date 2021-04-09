@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Opensource Project**
 
-- 💬 Ask me about my domain I'm Happy to help you **In my domain I'm Happy to help you**
+- 💬 Ask me about my domain  **In my domain I'm Happy to help you**
 
 - 📫 How to reach me **srnvry@gmail.com**
 
