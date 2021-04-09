@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Openstack**
 
-- 🌱 I’m currently learning Openshift **Openshift**
+- 🌱 I’m currently learning  **Openshift**
 
 - 👯 I’m looking to collaborate on **Opensource Project**
 
