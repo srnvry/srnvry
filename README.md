@@ -24,6 +24,16 @@
 <a href="https://fb.com/srnvry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="srnvry" height="30" width="40" /></a>
 <a href="https://instagram.com/rnvry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rnvry" height="30" width="40" /></a>
 </p>
+<br>
+<h3 align="left">📕 Certifications</h3>
+<p align="left">
+<a href="https://rhtapps.redhat.com/certifications/badge/verify/VRYPYLUYBGU7MCRBGDVBJFT6NUAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ="><img src="https://github.com/srnvry/Resume/blob/c6a95b0c0985c874fdc83aadbbfa936feb0a6326/3.png" alt="Red Hat Certified Engineer"
+   title="Red Hat Certified Engineer" width="15%" /> </a> 
+<a href="https://rhtapps.redhat.com/certifications/badge/verify/VRYPYLUYBGU7MCRBGDVBJFT6NUAEQU3CUPSQX2KSDXT6RW46LQ3YBRY5HRN67XMD6X5VFP7ULSUKWW2HMIDYOMU6FAH2SEJXEIJCF5Y="><img src="https://github.com/srnvry/Resume/blob/c6a95b0c0985c874fdc83aadbbfa936feb0a6326/2.png" alt="Red Hat Certified System Administrator in Red Hat OpenStack"
+   title="Red Hat Certified System Administrator in Red Hat OpenStack" width="15%" /> </a>
+<a href="https://rhtapps.redhat.com/certifications/badge/verify/VRYPYLUYBGU7MCRBGDVBJFT6NUAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="><img src="https://github.com/srnvry/Resume/blob/c6a95b0c0985c874fdc83aadbbfa936feb0a6326/4.png" alt="Red Hat Certified System Administrator"
+   title="Red Hat Certified System Administrator" width="15%" /> </a> 
+</p>
 <h3 align="left">Skills:</h3>
 <h4 align="left">Programming Languages:</h4>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
