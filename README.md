@@ -25,11 +25,11 @@
 <br>
 <h3 align="left">📕 Certifications</h3>
 <p align="left">
-<a href="https://www.credly.com/badges/0d643954-4b0c-4222-8c5b-f34b5081427b"><img src="https://github.com/srnvry/Resume/blob/c6a95b0c0985c874fdc83aadbbfa936feb0a6326/3.png" alt="Red Hat Certified Engineer"
+<a href="https://www.credly.com/badges/0d643954-4b0c-4222-8c5b-f34b5081427b"><img src="https://github.com/srnvry/personal/blob/78bfb8f4a81a0b65ab56eb8d9ebc689c1dde6a28/3.png" alt="Red Hat Certified Engineer"
    title="Red Hat Certified Engineer" width="15%" /> </a> 
-<a href="https://www.credly.com/badges/f5d5ae92-d79c-494f-a352-76314455f1e9"><img src="https://github.com/srnvry/Resume/blob/c6a95b0c0985c874fdc83aadbbfa936feb0a6326/2.png" alt="Red Hat Certified System Administrator in Red Hat OpenStack"
+<a href="https://www.credly.com/badges/f5d5ae92-d79c-494f-a352-76314455f1e9"><img src="https://github.com/srnvry/personal/blob/78bfb8f4a81a0b65ab56eb8d9ebc689c1dde6a28/2.png" alt="Red Hat Certified System Administrator in Red Hat OpenStack"
    title="Red Hat Certified System Administrator in Red Hat OpenStack" width="15%" /> </a>
-<a href="https://www.credly.com/badges/62c30ed3-ba96-499d-80ba-54c1a8eab9ed"><img src="https://github.com/srnvry/Resume/blob/c6a95b0c0985c874fdc83aadbbfa936feb0a6326/4.png" alt="Red Hat Certified System Administrator"
+<a href="https://www.credly.com/badges/62c30ed3-ba96-499d-80ba-54c1a8eab9ed"><img src="https://github.com/srnvry/personal/blob/78bfb8f4a81a0b65ab56eb8d9ebc689c1dde6a28/4.png" alt="Red Hat Certified System Administrator"
    title="Red Hat Certified System Administrator" width="15%" /> </a> 
 </p>
 <h3 align="left">Skills:</h3>
